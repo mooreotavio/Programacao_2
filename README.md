@@ -1,4 +1,4 @@
-# Programacao_2
+# Programação_2
 Repository containing all the resumes and code made along the Programming 2 discipline at UENF, at the second semester of 2021.
 
 ## Contents
